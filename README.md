@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KHNethengwe
+- 👋 Hi, I’m @Kelebogile_Nethengwe
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning c# and web app developement 
 
